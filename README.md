@@ -6,5 +6,6 @@ in Go. Each package contains its own documentation.
 # LICENSE
 
 All the packages in this repository are licensed under the MIT License.
+
 Copyright &copy; 2014 Miquel Sabaté Solà.
 
