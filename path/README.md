@@ -24,3 +24,4 @@ func main() {
 }
 ~~~
 
+Copyright &copy; 2014 Miquel Sabaté Solà, released under the MIT License.

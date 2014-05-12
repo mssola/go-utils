@@ -21,3 +21,5 @@ func main() {
 	fmt.Printf("%v\n", home) // => /home/user
 }
 ~~~
+
+Copyright &copy; 2014 Miquel Sabaté Solà, released under the MIT License.

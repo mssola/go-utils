@@ -24,3 +24,5 @@ func main() {
 	fmt.Printf("%v\n", security.NewAuthToken())
 }
 ~~~
+
+Copyright &copy; 2014 Miquel Sabaté Solà, released under the MIT License.
