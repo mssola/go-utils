@@ -1,7 +1,7 @@
 
 # Misc
 
-This package contains random function that I did not where to put. By now
+This package contains random functions that I didn't know where to put. By now
 there's only the EnvOrElse function. This function is similar to Python's get
 but this one deals with environment variables. An example:
 
