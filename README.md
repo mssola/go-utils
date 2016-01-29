@@ -7,5 +7,5 @@ in Go. Each package contains its own documentation.
 
 All the packages in this repository are licensed under the MIT License.
 
-Copyright &copy; 2014-2015 Miquel Sabaté Solà.
+Copyright &copy; 2014-2016 Miquel Sabaté Solà.
 
